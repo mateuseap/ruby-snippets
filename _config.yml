@@ -1,0 +1,12 @@
+title: Ruby Snippets
+email: mateuseliaas@hotmail.com
+description: >-
+  A curated collection of reusable Ruby code snippets.
+baseurl: "/ruby-snippets"
+url: "https://www.mateuseap.com"
+github_username:  mateuseap/ruby-snippets
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
